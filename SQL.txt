@@ -27,8 +27,8 @@ CREATE TABLE "public"."public_productscategories" (
 
 
 
-SELECT prod.name, cat.name
-FROM "public"."public_productscategories" x
-LEFT JOIN "public"."public_products" prod ON x.productid EQUALS prod.productid,
+SELECT prod.name || ' -- ' || cat.name as doubleout
+FROM "public"."public_products" prod
+LEFT JOIN "public"."public_productscategories" x ON prod.productid EQUALS x.productid,
 LEFT JOIN "public"."public_categories" cat ON x.categoryid EQUALS cat.categoryid;
 
