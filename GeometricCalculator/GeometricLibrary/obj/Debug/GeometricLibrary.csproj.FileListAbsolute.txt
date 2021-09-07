@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\GeometricCalculator\GeometricLibrary\bin\Debug\GeometricLibrary.dll
+c:\users\user\documents\visual studio 2013\Projects\GeometricCalculator\GeometricLibrary\bin\Debug\GeometricLibrary.pdb
+c:\users\user\documents\visual studio 2013\Projects\GeometricCalculator\GeometricLibrary\obj\Debug\GeometricLibrary.dll
+c:\users\user\documents\visual studio 2013\Projects\GeometricCalculator\GeometricLibrary\obj\Debug\GeometricLibrary.pdb
+c:\users\user\documents\visual studio 2013\Projects\GeometricCalculator\GeometricLibrary\obj\Debug\GeometricLibrary.csprojResolveAssemblyReference.cache
